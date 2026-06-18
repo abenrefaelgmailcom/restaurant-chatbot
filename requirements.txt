@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+# python restaurant_chatbot_gradio.py
+# python restaurant_chatbot_app.py
+# OpenAI
+openai>=1.99.0
+
+# LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Web UI
+gradio>=5.0.0
